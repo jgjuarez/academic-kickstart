@@ -7,7 +7,7 @@ authors:
 - Edwin Valdez
 - Ismael Badillo-Vargas
 - Gabriel Hamer
-date: "2020-4-22T00:00:00Z"
+date: "2020-04-22T00:00:00Z"
 doi: "https://doi.org/10.1038/s41598-020-63670-9"
 featured: true
 image:
@@ -19,7 +19,7 @@ publication: '*Scientific Reports*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-4-22T00:00:00Z"
+publishDate: "2020-04-22T00:00:00Z"
 #slides: example
 summary: Marking naturally occuring mosquitoes to track their dispersal.
 tags:
