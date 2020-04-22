@@ -1,75 +1,48 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
 authors:
 - admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+bio: My research interests include Integrated Vector Management for Neglected Tropical Diseases.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD Candiate in Entomology
+    institution: Texas A&M University
+    year: 2020
+  - course: MSc in Biology and Control of Parasites and Disease Vectors
+    institution: Liverpool School of Tropical Medicine 
+    year: 2013
+  - course: BSc in Biology
+    institution: Universidad del Valle de Guatemala
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+email: "jua05396@tamu.edu"
+interests:
+- Neglected Tropical Diseases
+- Integrated Vector Managament
+- Community Engagement
+organizations:
+- name: Texas A&M University
+  url: ""
+role: PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/willycolocho
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ICz5m2EAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  link: https://github.com/jgjuarez
+superuser: true
+title: Jose G. Juarez
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Jose Guillermo Juarez (a. k. a. Willy) and I’m a PhD candidate of the Department of Entomology at Texas A&M University. I have a true love for learning novel methods of vector control and community participation/engagement for developing Integrated Vector Control Interventions (that’s my passion). There is a need for novel methods of vector control that can effectively protect communities at the highest risk of vector borne disease transmission. These methods will require in-depth understanding of the social, biological and ecological factors that modulate how vectors interact with human populations. At the same time these eco-bio-social factors will help us develop culturally acceptable methods of control that might be tailored for our local communities. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have worked on insect vector control programs for diseases such as Chagas, Dengue and Malaria. I have also worked evaluating RNAi targets for different insect vectors and irradiation procedures for the Sterile Insect Technique for *Aedes* sp. I joined Dr. Hamer’s lab at Texas A&M to work on an Eco-Bio-Social approach for the surveillance and control of *Aedes aegypti* in the Lower Rio Grande Valley, Texas.
+

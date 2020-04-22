@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "PhD student, Research Assistant"
+  company = "Hamer Laboratory, Department of Entomology at Texas A&M University"
+  company_url = "https://hamerlab.tamu.edu"
+  location = "Texas"
+  date_start = "2017-07-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -31,14 +31,37 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
+[[experience]]
+  title = "Research Assistant"
+  company = "Center for Health Studies at the Universidad del Valle de Guatemala"
+  company_url = "https://www.ces.uvg.edu.gt/page/"
+  location = "Guatemala"
+  date_start = "2010-09-01"
+  date_end = "2017-06-01"
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Field coordination
+  * Ministry of Health liaison
+  """
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Department of Entomology, Texas A&M University"
+  company_url = ""
+  location = "Texas"
+  date_start = "2018-01-01"
+  date_end = ""
+  description = """Taught the live and online classe of Veterinary Entomology (ENTO 209) and Medical Entomology (Ento 423)."""
 
 [[experience]]
   title = "Professor"
-  company = "University X"
+  company = "Department of Chemistry and Biology, Universidad del Valle de Guatemala"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Guatemala"
+  date_start = "2012-01-01"
+  date_end = "2015-11-01"
+  description = """Taught the classe of Research Methods and Introduction to the Life Sciences."""
 
 +++
